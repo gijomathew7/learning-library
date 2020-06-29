@@ -1,2 +1,2 @@
 # learning-library
-Collection fo various tips and summaries about technology
+Notes and summaries about various technologies.
