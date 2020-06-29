@@ -30,3 +30,4 @@ Collection of elastic search nodes.One of the nodes is elected as master and is 
 
 ## Reference
 Lucene(https://lucene.apache.org/core/)
+Elastic indexing basic (https://www.elastic.co/blog/found-elasticsearch-from-the-bottom-up)
